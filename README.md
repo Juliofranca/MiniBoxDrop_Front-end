@@ -27,7 +27,7 @@ Mini BoxDrop é um sistema abrangente de gerenciamento de produtos projetado par
 ### Configuração
 1. Navegue até a pasta do frontend:
    ```sh
-   cd ../frontend
+   cd  ../frontend
    ```
 
 2. Abra o arquivo `index.html` no seu navegador web.
